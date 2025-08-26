@@ -62,17 +62,6 @@ I'm a passionate **BS Computer Science student** at **De La Salle Lipa**, driven
   <img src="https://cdn.simpleicons.org/intellijidea/000000" height="40" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
 </p>
 
-## GitHub Activity
-
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mklshane/mklshane/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mklshane/mklshane/output/pacman-contribution-graph.svg">
-  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/mklshane/mklshane/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
 
 ## What I'm Working On
 
