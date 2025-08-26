@@ -22,6 +22,10 @@ I'm a passionate **BS Computer Science student** at **De La Salle Lipa**, driven
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" title="JavaScript" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/java/ED8B00" height="40" alt="Java" title="Java" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="C++" title="C++" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" title="HTML5" />
