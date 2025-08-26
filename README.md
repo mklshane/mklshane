@@ -1,57 +1,104 @@
-<h2 align="center">Hi, I am Shane</h2>
+# Hi there, I'm Shane Estrellanes!
 
-###
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=BS+Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
 
-<p align="left">I'm Shane Estrellanes, a passionate BS Computer Science student at De La Salle Lipa. I'm excited about coding and leveraging technology to solve problems and create innovative solutions!</p>
-
-###
-
-<h3 align="left">Skills & Technologies</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/intellijidea/000000" height="40" alt="intellij logo"  />
 </div>
 
-###
+## About Me
 
+I'm a passionate **BS Computer Science student** at **De La Salle Lipa**, driven by curiosity and a love for technology. I enjoy building innovative solutions, exploring new frameworks, and turning ideas into reality through code.
+
+- Currently pursuing my degree in Computer Science
+- Always learning and exploring cutting-edge technologies
+- Goal: To create impactful solutions that make a difference
+
+## Tech Stack & Tools
+
+### **Languages**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="C++" title="C++" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" title="CSS3" />
+</p>
+
+### **Frontend Development**
+<p align="left">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" title="React" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="Next.js" title="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="Redux" title="Redux" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap" title="Bootstrap" />
+</p>
+
+### **Backend & Database**
+<p align="left">
+  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="Express.js" title="Express.js" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" title="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase" title="Firebase" />
+</p>
+
+### **Tools & Platforms**
+<p align="left">
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="Vercel" title="Vercel" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" title="Postman" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/intellijidea/000000" height="40" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+</p>
+
+## GitHub Activity
+
+<div align="center">
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mklshane/mklshane/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mklshane/mklshane/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mklshane/mklshane/output/pacman-contribution-graph.svg">
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/mklshane/mklshane/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+</div>
+
+## What I'm Working On
+
+- Building full-stack applications with React and Node.js
+- Learning advanced concepts in software engineering and system design
+- Looking to collaborate on open source projects
+- Ask me about web development, algorithms, or anything tech-related!
+
+## Let's Connect!
+
+<p align="left">
+  <a href="mailto:shaneestrellanes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/mikaela-shane-estrellanes-1a962b378/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mklshane">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+From [mklshane](https://github.com/mklshane) | Always coding, always learning!
+
+</div>
