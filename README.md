@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">I'm Shane Estrellanes, a passionate BS Computer Science student at De La Salle Lipa. I'm excited about coding and leveraging technology to solve problems and create innovative solutions!</p>
+<p align="left">
+  I'm Shane Estrellanes, a passionate BS Computer Science student at De La Salle Lipa. 
+  I'm excited about coding and leveraging technology to solve problems and create innovative solutions!
+</p>
 
 ###
 
@@ -48,10 +51,4 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mklshane/mklshane/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mklshane/mklshane/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mklshane/mklshane/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<img src="https://raw.githubusercontent.com/mklshane/mklshane/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
