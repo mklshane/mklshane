@@ -1,14 +1,14 @@
-# Hi there, I'm Shane Estrellanes!
+# Hi there, I'm Shane Estrellanes! ✨
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=BS+Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E91E63&center=true&vCenter=true&random=false&width=435&lines=BS+Computer+Science+Student;Web+Developer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
 ## About Me
 
-I'm a passionate **BS Computer Science student** at **De La Salle Lipa**, driven by curiosity and a love for technology. I enjoy building innovative solutions, exploring new frameworks, and turning ideas into reality through code.
+I'm a passionate **BS Computer Science student** at **De La Salle Lipa**, driven by curiosity and a love for technology. I enjoy building innovative solutions, exploring new frameworks, and turning ideas into reality through code. ♡
 
 - Currently pursuing my degree in Computer Science
 - Always learning and exploring cutting-edge technologies
@@ -81,17 +81,17 @@ I'm a passionate **BS Computer Science student** at **De La Salle Lipa**, driven
 - Looking to collaborate on open source projects
 - Ask me about web development, algorithms, or anything tech-related!
 
-## Let's Connect!
+## Let's Connect! ˚ ༘♡ ⋆｡˚
 
 <p align="left">
   <a href="mailto:shaneestrellanes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/mikaela-shane-estrellanes-1a962b378/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-E91E63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mklshane">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-C2185B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -99,6 +99,6 @@ I'm a passionate **BS Computer Science student** at **De La Salle Lipa**, driven
 
 <div align="center">
   
-From [mklshane](https://github.com/mklshane) | Always coding, always learning!
+From [mklshane](https://github.com/mklshane) with ♡ | Always coding, always learning!
 
 </div>
