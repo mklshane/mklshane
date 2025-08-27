@@ -77,10 +77,4 @@ I'm a passionate **BS Computer Science student** at **De La Salle Lipa**, driven
   </a>
 </p>
 
----
 
-<div align="center">
-  
-From [mklshane](https://github.com/mklshane) with ♡ | Always coding, always learning!
-
-</div>
