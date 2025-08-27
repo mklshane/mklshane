@@ -63,13 +63,6 @@ I'm a passionate **BS Computer Science student** at **De La Salle Lipa**, driven
 </p>
 
 
-## What I'm Working On
-
-- Building full-stack applications with React and Node.js
-- Learning advanced concepts in software engineering and system design
-- Looking to collaborate on open source projects
-- Ask me about web development, algorithms, or anything tech-related!
-
 ## Let's Connect! ˚ ༘♡ ⋆｡˚
 
 <p align="left">
