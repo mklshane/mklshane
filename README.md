@@ -26,7 +26,6 @@ I'm a passionate **BS Computer Science student** at **De La Salle Lipa**, driven
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" title="CSS3" />
 </p>
 
 ### **Frontend Development**
